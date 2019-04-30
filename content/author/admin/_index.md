@@ -82,9 +82,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
+<br/>
 Zuhui Wang is currently a *1st-year* Ph.D. student in Computer Science at Missouri University of Science and Technology (MST), advised by [Dr. Zhaozheng Yin](http://web.mst.edu/~yinz/). He received his Master degree in Computer Science at University of Central Florida in 2017, and also earned his Bachelor degree in Computer Science and Technology at Southern Medical University in 2009. 
 
 He is interested in **computer vision** and **image computation** with deep learning technologies, ***especially in multimedia representation and computation projects***. 
 
-### What's new
-- [2019-04-29] &nbsp; &nbsp; &nbsp; &nbsp; I am looking for computer-vision related internship positions.

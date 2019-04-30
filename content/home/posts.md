@@ -5,10 +5,10 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Posts"
-subtitle = ""
+title = "News"
+subtitle = "my recent activities:"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -65,3 +65,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+- [2019-04-30] &nbsp; &nbsp; &nbsp; &nbsp; I am looking for computer-vision related internship positions.
+- [2019-04-29] &nbsp; &nbsp; &nbsp; &nbsp; My personal homepage has been successfully set up! 
