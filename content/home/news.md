@@ -36,7 +36,7 @@ subtitle = "my recent activities:"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -56,7 +56,7 @@ subtitle = "my recent activities:"
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+  # text_color_light = false 
   
 [advanced]
  # Custom CSS. 
@@ -65,6 +65,10 @@ subtitle = "my recent activities:"
  # CSS class.
  css_class = ""
 +++
-- [2019-05-10] &nbsp; &nbsp; &nbsp; &nbsp; I wrote a post of Eq. 1.90 derivation of ***PRML*** under the **Tutorials** section. 
-- [2019-04-30] &nbsp; &nbsp; &nbsp; &nbsp; I am looking for computer-vision related internship positions.
-- [2019-04-29] &nbsp; &nbsp; &nbsp; &nbsp; My personal homepage has been successfully set up! 
+<img style='vertical-align:middle;' src="img/new.gif" width="50" height="30" />
+
+<b><mark> 2019-05-10 &nbsp; &nbsp; &nbsp; I wrote a post of <a href="/tutorial/prml_ch1">Eq. 1.90</a> derivation of <b><em>PRML</em></b> under the <b>Tutorials</b> section.</b></mark>
+
+- [ 2019-05-09 ] &nbsp; I won the <ins><em>1st place</em></ins> of our Student Research Poster Competition <b>(CS-SRPC’19)</b>. Excited!
+- [ 2019-04-30 ] &nbsp; I am looking for computer-vision related internship positions.
+- [ 2019-04-29 ] &nbsp; My personal homepage has been successfully set up! 
