@@ -65,6 +65,6 @@ subtitle = "my recent activities:"
  # CSS class.
  css_class = ""
 +++
-
+- [2019-05-10] &nbsp; &nbsp; &nbsp; &nbsp; I wrote a post of Eq. 1.90 derivation of ***PRML*** under the **Tutorials** section. 
 - [2019-04-30] &nbsp; &nbsp; &nbsp; &nbsp; I am looking for computer-vision related internship positions.
 - [2019-04-29] &nbsp; &nbsp; &nbsp; &nbsp; My personal homepage has been successfully set up! 
