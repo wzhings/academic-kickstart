@@ -21,6 +21,7 @@ inline \\(a^2 + b^2 = c\\)
 block: \\[ \\]
 -->
 
+### Equation 1.90, Section 1.5.5 in Pattern Recognition and Machine Learning (PRML)
 
 In this note, I will show the derivation procedure of the equation of 1.90 step by step. Before we start, I want to claim that the version of the textbook are 2006 version. The Eq. 1.90 is list on Page 47.
 
