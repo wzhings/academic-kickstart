@@ -67,7 +67,7 @@ subtitle = "my recent activities:"
 +++
 <img style='vertical-align:middle;' src="img/new.gif" width="50" height="30" />
 
-<b><mark> 2019-05-10 &nbsp; &nbsp; &nbsp; I wrote a post of <a href="/tutorial/prml_ch1">Eq. 1.90</a> derivation of <b><em>PRML</em></b> under the <b>Tutorials</b> section.</b></mark>
+<b><mark> 2019-05-10 &nbsp; &nbsp; &nbsp; I posted a tutorial about <a href="/tutorial/prml_ch1">Eq. 1.90</a> derivation of <b><em>PRML</em></b> under the <b>Tutorials</b> section.</b></mark>
 
 - [ 2019-05-09 ] &nbsp; I won the <ins><em>1st place</em></ins> of our Student Research Poster Competition <b>(CS-SRPC’19)</b>. Excited!
 - [ 2019-04-30 ] &nbsp; I am looking for computer-vision related internship positions.

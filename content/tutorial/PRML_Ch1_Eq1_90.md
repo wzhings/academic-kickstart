@@ -5,14 +5,15 @@ date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
 
 draft = false   # Is this a draft? true/false
-toc = false  # Show table of contents? true/false
+toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-linktitle = "#1-Introduction"
+# linktitle = "#1-Intro-Eq1_90"
 [menu.tutorial]
-  parent = "PRML"
-  weight = 1
+ parent = "PRML"
+ name = "#1.1-Intro-Eq1_90"
+ weight = 2
 
 +++
 
@@ -21,9 +22,8 @@ inline \\(a^2 + b^2 = c\\)
 block: \\[ \\]
 -->
 
-### Section 1.5.5 in Pattern Recognition and Machine Learning (PRML)
-
-In this note, I will show the derivation procedure of the equation of 1.90 step by step. Before we start, I want to claim that the version of the textbook are 2006 version. The Eq. 1.90 is list on Page 47.
+## Section 1.5.5, ***PRML***
+In this note, I will show the derivation procedure of the equation of 1.90 step by step. Before we start, I have to claim that the version of the textbook I am reading is the 2006 version. The Eq. 1.90 is list on Page 47.
 
 From Page 46 we know, the expected loss can be written as 
 
@@ -82,7 +82,7 @@ $$\small
 \mathbb{E}[L] = \int \\\{y(\mathbf{x}) - \mathbb{E}[t|\mathbf{x}]\\\}^2 p(\mathbf{x})\mathrm{d}\mathbf{x} +  \int \mathrm{var}[t|\mathbf x] p(\mathbf x) \mathrm d\mathbf x
 $$
 
-BTW, for the 2006 version E-book, the last term of Eq.$1.90$ has a typo. It has been fixed at page 7 in the [PRML Errata File](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-errata-1st-20110921.pdf). 
+BTW, for the 2006 version E-book, the last term of Eq. 1.90 has a typo. It has been fixed at page 7 in the [PRML Errata File](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-errata-1st-20110921.pdf). 
 
 -[**END**]-
 

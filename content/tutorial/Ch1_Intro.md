@@ -1,5 +1,5 @@
 +++
-title = "Overview"
+title = "Ch1. INTRODUCTION"
 
 date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
@@ -9,14 +9,14 @@ toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
+# linktitle = "Ch1-Introduction"
 [menu.tutorial]
-  name = "Overview"
+  parent = "PRML"
+  name = "1_Introduction"
   weight = 1
 
 +++
 
-I will share my **personal reading and lecture notes** here. 
+This chapter contains the following content:
 
-Feel free to contact me if you have any comment and hope you will like my notes.
-
-- [Pattern Recognition and Machine Learning (**PRML**)](/tutorial/prml)
+- [Eq. 1.90 Derivation](/tutorial/prml_ch1_eq1_90/)
