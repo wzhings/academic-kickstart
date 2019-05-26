@@ -19,7 +19,7 @@ organizations = [ { name = "Missouri University of Science and Technology", url 
 bio = "My research interests include computer vision, image computation, and deep learning."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "zw5t8@umsystem.edu"
 
 # List (academic) interests or hobbies
 interests = [
