@@ -25,7 +25,8 @@ email = "zw5t8@umsystem.edu"
 interests = [
   "Computer Vision",
   "Computational Photography",
-  "Multimedia Representation"
+  "Multimedia Representation",
+  "Biomedical Image Processing"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -41,7 +42,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "MSc in Computer Science"
   institution = "University of Central Florida (UCF), Orlando, USA"
-  year = 2017
+  year = 2016
 
 [[education.courses]]
   course = "BE in Computer Sci. and Tech."
