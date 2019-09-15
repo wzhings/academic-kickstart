@@ -88,6 +88,6 @@ Zuhui Wang is currently a *1st-year* Ph.D. student in Computer Science at Missou
 
 He is interested in **computer vision** and **image computation** with deep learning technologies, ***especially in multimedia representation and computation projects***. 
 
-My life special link -- [Dr. Kexin Xiong](https://kexinxiong.github.io)
+The special link of my life -- [Dr. Kexin Xiong](https://kexinxiong.github.io)
 
 
