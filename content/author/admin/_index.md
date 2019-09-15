@@ -88,5 +88,6 @@ Zuhui Wang is currently a *1st-year* Ph.D. student in Computer Science at Missou
 
 He is interested in **computer vision** and **image computation** with deep learning technologies, ***especially in multimedia representation and computation projects***. 
 
-I transfered to Stony Brook University since 2019 Fall semester.
+My special link -- [Dr. Kexin Xiong](https://kexinxiong.github.io)
+
 
