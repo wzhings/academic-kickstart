@@ -13,13 +13,13 @@ role = "Ph.D. in Computer Science"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Missouri University of Science and Technology", url = "https://www.mst.edu/" } ]
+organizations = [ { name = "Stony Brook University", url = "https://www.stonybrook.edu" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include computer vision, image computation, and deep learning."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "zw5t8@umsystem.edu"
+email = "zuhui.wang@stonybrook.edu"
 
 # List (academic) interests or hobbies
 interests = [
@@ -84,7 +84,7 @@ user_groups = ["Researchers", "Visitors"]
 +++
 
 <br/>
-Zuhui Wang is currently a *1st-year* Ph.D. student in Computer Science at Missouri University of Science and Technology (MST), advised by [Dr. Zhaozheng Yin](http://web.mst.edu/~yinz/). He received his Master degree in Computer Science at University of Central Florida in 2016, and also earned his Bachelor degree in Computer Science and Technology at Southern Medical University in 2009. 
+Zuhui Wang is currently a *1st-year* Ph.D. student in Computer Science at Stony Brook University (SBU), advised by [Dr. Zhaozheng Yin](http://web.mst.edu/~yinz/). He received his Master degree in Computer Science at University of Central Florida in 2016, and also earned his Bachelor degree in Computer Science and Technology at Southern Medical University in 2009. 
 
 He is interested in **computer vision** and **image computation** with deep learning technologies, ***especially in multimedia representation and computation projects***. 
 

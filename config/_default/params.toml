@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "forest"
+color_theme = "ocean"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -12,7 +12,7 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Zuhui Wang, a PhD student in Computer Science of Missouri University of Science and Technology."
+description = "Zuhui Wang, a PhD student in Computer Science at Stony Brook University."
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
@@ -50,14 +50,11 @@ time_format = "15:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "zw5t8@umsystem.edu"
-# email = "wzhings@gmail.com"
+email = "zuhui.wang [AT] stonybrook [DOT] edu"
+#email = "wzhings@gmail.com"
 phone = ""
+address = "2314, Old Computer Science Building, Stony Brook, NY 11794, USA"
 
-
-
-
-address = "ERL 302, 500 W 16th St, Rolla MO, 65401, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 # office_hours = """Monday 10:00 to 13:00<br>
@@ -93,8 +90,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 0
 map_api_key = ""
-latitude = "37.4275"
-longitude = "-122.1697"
+latitude = "40.912440"
+longitude = "-73.122346"
 zoom = 15
 
 ############################
