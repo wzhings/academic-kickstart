@@ -86,7 +86,7 @@ user_groups = ["Researchers", "Visitors"]
 <br/>
 Zuhui Wang is currently a *2nd-year* Ph.D. student in Computer Science at Stony Brook University (SBU), advised by [Dr. Zhaozheng Yin](https://www3.cs.stonybrook.edu/~zyin/index.htm). Zuhui received his Master degree in Computer Science at University of Central Florida in 2016, and also earned his Bachelor degree in Computer Science and Technology at Southern Medical University in 2009. 
 
-He is interested in **computer vision** and **biomedical image processing** with deep learning technologies, and ***multimedia representation and analysis***. 
+He is interested in **computer vision** and **biomedical image processing**, and ***multimedia representation and analysis***. 
 
 The special link of Zuhui's life -- [Dr. Kexin Xiong](https://kexinxiong.github.io)
 

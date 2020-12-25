@@ -70,9 +70,11 @@ subtitle = "my recent activities:"
 <b><mark> 2019-05-10 &nbsp; &nbsp; &nbsp; I posted a tutorial about <a href="/tutorial/prml_ch1_eq1_90/">Eq. 1.90</a> derivation of <b><em>PRML</em></b> under the <b>Tutorials</b> section.</b></mark> :green_book:
 
 - [ 2020-12 ] &nbsp; I just passed my Ph.D. Quals at SBU by the end of 2020 Fall!
-- [ 2020-12 ] &nbsp; One paper was just accepted by Journal of **Accident Analysis & Prevention** (Impact Factor = 3.655). Thank you to Dr. Qin and Dr. Yin for the help.
-- [ 2020-11 ] &nbsp; One paper was accepted by IEEE Journal of **Biomedical and Health Informatics** (Impact Factor = 5.223). Thank you to Dr. Yin and Dr. Argyris for the help.
-- [ 2020-06 ] &nbsp; One paper was accepted by Journal of **Computers in Human Behavior** (Impact Factor = 5.696). Thank you to Dr. Yin and Dr. Argyris for the help. 
+- [ 2020-12 ] &nbsp; One paper was just accepted by Journal of **Accident Analysis & Prevention** (Impact Factor = 3.655). 
+- [ 2020-11 ] &nbsp; One paper was accepted by IEEE Journal of **Biomedical and Health Informatics** (Impact Factor = 5.223)
+- [ 2020-06 ] &nbsp; One paper was accepted by Journal of **Computers in Human Behavior** (Impact Factor = 5.696)
 - [ 2019-05 ] &nbsp; I won the <ins><em>1st place</em></ins> of our Student Research Poster Competition <b>(CS-SRPC’19)</b>. :trophy::stuck_out_tongue_winking_eye:
-# - [ 2019-04 ] &nbsp; I am looking for computer-vision related internship positions. :computer:
-# - [ 2019-04 ] &nbsp; My personal homepage has been successfully set up! :smiley:
+<!---
+ - [ 2019-04 ] &nbsp; I am looking for computer-vision related internship positions. :computer:
+ - [ 2019-04 ] &nbsp; My personal homepage has been successfully set up! :smiley:
+--->
