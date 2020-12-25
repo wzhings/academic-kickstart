@@ -16,7 +16,7 @@ role = "Ph.D. in Computer Science"
 organizations = [ { name = "Stony Brook University", url = "https://www.stonybrook.edu" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include computer vision, image computation, and deep learning."
+bio = "My research interests include computer vision, biomedical image processing, multimedia analysis and deep learning."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "zuhui.wang@stonybrook.edu"
@@ -24,9 +24,9 @@ email = "zuhui.wang@stonybrook.edu"
 # List (academic) interests or hobbies
 interests = [
   "Computer Vision",
-  "Computational Photography",
-  "Multimedia Representation",
-  "Biomedical Image Processing"
+  "Biomedical Image Processing",
+  "Multimedia Analysis",
+  "Computational Photography"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -67,7 +67,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.com/citations?user=iK82BKkAAAAJ"
+  link = "https://scholar.google.com/citations?user=EpHTS34AAAAJ"
 
 [[social]]
   icon = "github"
@@ -84,10 +84,10 @@ user_groups = ["Researchers", "Visitors"]
 +++
 
 <br/>
-Zuhui Wang is currently a *1st-year* Ph.D. student in Computer Science at Stony Brook University (SBU), advised by [Dr. Zhaozheng Yin](http://web.mst.edu/~yinz/). He received his Master degree in Computer Science at University of Central Florida in 2016, and also earned his Bachelor degree in Computer Science and Technology at Southern Medical University in 2009. 
+Zuhui Wang is currently a *2nd-year* Ph.D. student in Computer Science at Stony Brook University (SBU), advised by [Dr. Zhaozheng Yin](https://www3.cs.stonybrook.edu/~zyin/index.htm). Zuhui received his Master degree in Computer Science at University of Central Florida in 2016, and also earned his Bachelor degree in Computer Science and Technology at Southern Medical University in 2009. 
 
-He is interested in **computer vision** and **image computation** with deep learning technologies, ***especially in multimedia representation and computation projects***. 
+He is interested in **computer vision** and **biomedical image processing** with deep learning technologies, and ***multimedia representation and analysis***. 
 
-The special link of my life -- [Dr. Kexin Xiong](https://kexinxiong.github.io)
+The special link of Zuhui's life -- [Dr. Kexin Xiong](https://kexinxiong.github.io)
 
 

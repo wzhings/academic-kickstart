@@ -17,19 +17,19 @@ subtitle = ""
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "Keras / PyTorch / Tensorflow"
+  name = "PyTorch | Tensorflow | Keras"
   description = "deep learning frameworks"
   
 [[feature]]
   icon = "code-branch"
   icon_pack = "fas"
-  name = "Python / Matlab / C / C++"
+  name = "Python | Matlab | Java | C++ | SQL | HTML"
   description = "programming languages"  
   
 [[feature]]
   icon = "language"
   icon_pack = "fas"
-  name = "English / Mandarin Chinese"
-  description = "fluent presentation languages"
+  name = "English | Mandarin Chinese | (Japanese)"
+  description = "fluent work languages"
 
 +++
