@@ -67,10 +67,10 @@ subtitle = "my recent activities:"
 +++
 <img style='vertical-align:middle;' src="img/new.gif" width="50" height="30" />
 
-- [ 2020-12 ] &nbsp; I just passed my **Ph.D. Quals** at SBU by the end of 2020 Fall semester!
-- [ 2020-12 ] &nbsp; One paper was just accepted by Journal of **Accident Analysis & Prevention** (IF = 3.655). :stuck_out_tongue_winking_eye:
+- [ 2020-12 ] &nbsp; I just passed my **Ph.D. Quals** at SBU by the end of 2020 Fall semester! :thumbsup:
+- [ 2020-12 ] &nbsp; One paper was just accepted by Journal of **Accident Analysis & Prevention** (IF = 3.655). :smiley:
 - [ 2020-11 ] &nbsp; One paper was accepted by Journal of **Biomedical and Health Informatics** (IF = 5.223). :stuck_out_tongue_winking_eye:
-- [ 2020-06 ] &nbsp; One paper was accepted by Journal of **Computers in Human Behavior** (IF = 5.696). :stuck_out_tongue_winking_eye:
+- [ 2020-06 ] &nbsp; One paper was accepted by Journal of **Computers in Human Behavior** (IF = 5.696). :smiley:
 - [ 2019-05 ] &nbsp; I won the <ins><em>1st place</em></ins> of our Student Research Poster Competition <b>(CS-SRPC’19)</b>. :trophy::stuck_out_tongue_winking_eye:
 
 <!--- <b><mark> 2019-05-10 &nbsp; &nbsp; &nbsp; I posted a tutorial about <a href="/tutorial/prml_ch1_eq1_90/">Eq. 1.90</a> derivation of <b><em>PRML</em></b> under the <b>Tutorials</b> section.</b></mark> :green_book: --->
