@@ -50,11 +50,10 @@ time_format = "15:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "zuhui.wang [AT] stonybrook [DOT] edu"
+email = "zuhui.wang[AT]stonybrook[DOT]edu"
 #email = "wzhings@gmail.com"
 phone = ""
 address = "2314, Old Computer Science Building, Stony Brook, NY 11794, USA"
-
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 # office_hours = """Monday 10:00 to 13:00<br>
@@ -130,7 +129,7 @@ sharing = true
 [publications]
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "January 2006"
+  date_format = "2006-01-02"
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"
@@ -142,8 +141,8 @@ sharing = true
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 2
-  publication_view = 2
+  post_view = 3
+  publication_view = 3
   talk_view = 2
 
 # Search.

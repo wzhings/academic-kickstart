@@ -40,12 +40,12 @@ user_groups = ["Researchers", "Visitors"]
 #  year = 2012
 
 [[education.courses]]
-  course = "MSc in Computer Science"
+  course = "M.Sc. in Computer Science"
   institution = "University of Central Florida (UCF), Orlando, USA"
   year = 2016
 
 [[education.courses]]
-  course = "BE in Computer Sci. and Tech."
+  course = "B.E. in Computer Sci. and Tech."
   institution = "Southern Medical University (SMU), Guangzhou, China"
   year = 2009
 
@@ -86,7 +86,7 @@ user_groups = ["Researchers", "Visitors"]
 <br/>
 Zuhui Wang is currently a *2nd-year* Ph.D. student in Computer Science at Stony Brook University (SBU), advised by [Dr. Zhaozheng Yin](https://www3.cs.stonybrook.edu/~zyin/index.htm). Zuhui received his Master degree in Computer Science at University of Central Florida in 2016, and also earned his Bachelor degree in Computer Science and Technology at Southern Medical University in 2009. 
 
-He is currently interested in **computer vision**, **biomedical image processing**, and **multimedia analysis**. 
+He is currently interested in **biomedical image processing**, **multimodal analysis**, and **video representation**. 
 
 The special link of Zuhui's life -- [Dr. Kexin Xiong](https://kexinxiong.github.io)
 
