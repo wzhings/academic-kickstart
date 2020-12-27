@@ -1,13 +1,12 @@
 +++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+# some useful material for research and Ph.D. program
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 100 # Order that this section will appear.
 
-title = "Publications"
+title = "Miscellaneous"
 subtitle = ""
 
 [content]
@@ -25,9 +24,9 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
+    tag = "PhD"
+    category = "Research"
+    publication_type = "article"
     exclude_featured = false
   
 [design]
@@ -36,7 +35,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -56,7 +55,7 @@ subtitle = ""
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+  text_color_light = false  
   
 [advanced]
  # Custom CSS. 
@@ -72,4 +71,5 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 {{% /alert %}}
 -->
 
-Under construction...
+- [The Ph.D. Grind -- A Ph.D. Student Memoir](https://drive.google.com/file/d/1Z1AbThg35MyKlZKdlB3BUCTv9iIgmMn5/view?usp=sharing) by Dr. Philip J. Guo, 3rd anniversary reprint.
+- [How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) by S. Keshav, version of Feb. 17, 2016.
