@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "language"
   icon_pack = "fas"
-  name = "English | Mandarin Chinese | (Japanese)"
+  name = "English | Mandarin Chinese "
   description = "fluent work languages"
 
 +++
