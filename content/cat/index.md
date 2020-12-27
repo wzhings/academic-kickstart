@@ -21,7 +21,7 @@ categories = []
 
 Hello friends, here is my cat, Mour-mour (哞哞). Mour is a one-year-old, lively boy. I am so happy to live with him as his father, and we both love his mom :family_man_woman_boy:. Here are some pictures of him. Please enjoy them!
 
-1. [2020-11-30] Mour-mour is sleeping on my table 
+1. [2020-11-30] Mour-mour is sleeping on my table.
 <img class=“special-img-class” style="width:10% height:10%" src="/img/m1-20201130.jpg" alt="peace dove" title="mour is sleeping on my table"/>
 
 2. [2020-11-22] Mour-mour is lying down on my desk (just finish eating his favorite turkey snack). 
