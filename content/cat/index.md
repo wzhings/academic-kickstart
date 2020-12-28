@@ -5,7 +5,7 @@ draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["cat", "tuxedo"]
+tags = ["cat", "tuxedo", "黑猫警长", "喵界哈士奇"]
 categories = []
 
 # Featured image
@@ -19,7 +19,7 @@ categories = []
   focal_point = ""
 +++
 
-Hello friends, here is my cat, Mour-mour (哞哞). Mour is a one-year-old, lively boy. I am so happy to live with him as his father, and we both love his mom :family_man_woman_boy:. Here are some pictures of him. Please enjoy them!
+Hello friends, here is my cat, Mour-mour (哞哞儿). Mour is a one-year-old, lively boy. I am so happy to live with him as his father, and we both love his mom :family_man_woman_boy:. Here are some pictures of him. Please enjoy them!
 
 1. [2020-11-30] Mour-mour is sleeping on my table.
 <img class=“special-img-class” style="width:10% height:10%" src="/img/m1-20201130.jpg" alt="peace dove" title="mour is sleeping on my table"/>
