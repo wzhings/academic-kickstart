@@ -55,7 +55,7 @@ projects = ["antivaccine"]
 slides = ""
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/9253994"
+url_pdf = "http://arxiv.org/abs/2012.13968"
 url_code = "https://github.com/wzhings/antivaccine_detection.git"
 url_dataset = ""
 url_project = ""
