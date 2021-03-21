@@ -88,6 +88,6 @@ Zuhui Wang is currently a *2nd-year* Ph.D. student in Computer Science at Stony 
 
 He is currently interested in **biomedical image processing**, **multimodal analysis**, and **video representation**. 
 
-# The special link of Zuhui's life -- [Dr. Kexin Xiong](https://kexinxiong.github.io)
+[comment]: <> (The special link of Zuhui's life -- [Dr. Kexin Xiong](https://kexinxiong.github.io))
 
 
