@@ -67,9 +67,9 @@ subtitle = "my recent activities:"
 +++
 <img style='vertical-align:middle;' src="img/new.gif" width="50" height="30" />
 
-- [2021-05] &nbsp; I will work as a Research Intern at **Verint's Da Vinci AI Lab** during this summer. :hugs:
-- [2021-04] &nbsp; One paper was accepted by Journal of **Journal of Interactive Marketing**.
-- [2021-03] &nbsp; One paper was accepted by Journal of **Accident Analysis & Prevention**.
+- [2021-05] &nbsp; I will work as a *Research Intern* at Verint's Da Vinci AI Lab in this summer.
+- [2021-04] &nbsp; One paper was accepted by Journal of **Journal of Interactive Marketing**. :smiley:
+- [2021-03] &nbsp; One paper was accepted by Journal of **Accident Analysis & Prevention**.	:smiley:
 - [2020-12] &nbsp; I just passed my **Ph.D. Quals** at SBU by the end of 2020 Fall semester!:thumbsup:
 - [2020-11] &nbsp; One paper was accepted by Journal of **Biomedical and Health Informatics**.:stuck_out_tongue_winking_eye:
 
